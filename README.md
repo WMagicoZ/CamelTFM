@@ -12,7 +12,7 @@
 
 > EN: Create drawings with CamelTFM
 
-> **Warning**: this project was created using 'Python 3.9', using previous versions can cause compatibility problems.
+> **Warning**: this project was created using "Python 3.9", using previous versions can cause compatibility problems.
 
 # YouTube - Presentation And Tutorials
 > 🔗 channel - https://www.youtube.com/channel/UC-8eB-iLPVpuk-pEjr--bCQ
