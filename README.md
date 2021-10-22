@@ -1,6 +1,6 @@
 ## CamelTFM
 
-
+![CamelTFM - Capa](https://raw.githubusercontent.com/WMagicoZ/CamelTFM/main/image.png)
 
 > ## :gift: **//// DONATE ////**
 
