@@ -2,11 +2,11 @@
 
 ![CamelTFM - Capa](https://raw.githubusercontent.com/WMagicoZ/CamelTFM/main/image.png)
 
-> ## :gift: **//// DONATE ////**
+> # :gift: **// DONATE //**
 
 > ## 🔗 Donate (Gumroad): https://magicoz.gumroad.com/l/QqnAI
 
-> considere ajudar a manter este projto e outros com uma doação de Gumroado no link acima. Isso ajuda a manter este e outros projetos ativos.
+> considere ajudar a manter este proj e outros com uma doação de Gumroado no link acima. Isso ajuda a manter este e outros projetos ativos.
 
 > BR: Criar desenhos com CamelTFM
 
